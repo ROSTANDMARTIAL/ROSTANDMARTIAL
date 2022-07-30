@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ROSTANDMARTIAL
-- 👀 I’m interested in web developement and programming
+- 👀 I’m interested in web developement and programming, Wordpress, django, Node.js, React.js, flex, Bootstrap, 
 - 🌱 I’m currently learning ...python, html, css and Javascript
 - 💞️ I’m looking to collaborate on python and javascript
 - 📫 How to reach me ...nguemenirostand@gmail.com
